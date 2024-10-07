@@ -53,7 +53,7 @@ public class App_lista_enlazada {
     
     public static void main(String[] args) {
        Lista_enlazadaSimple lista = new Lista_enlazadaSimple();
-       Nodo nuevo, temp;
+       Nodo nuevo, temp;arg;
        int id;
        int op;
         do {
